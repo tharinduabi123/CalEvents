@@ -1,0 +1,3 @@
+CalEvents | Event Management System
+
+CalEvents is a web-based automated event reservation system developed using JavaEE following MVC architecture. The system consists of 8 unique functionalities, employee, gallery, calendar, inventory, kitchen, menu, and supplier management. Employee management keeps track of all the employees related to the organization. The core functionality is to monitor the performance and displays relevant statistical figures needed to determine the quality of the workforce.
